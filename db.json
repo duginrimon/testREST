@@ -1,5 +1,5 @@
 {
-  "numberOfDocs": 3,
+  "numberOfDocs": "3",
   "documents": [
     { "uuid": 1, "name": "Post 1" },
     { "uuid": 2, "name": "Post 2" },
