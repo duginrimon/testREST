@@ -1,12 +1,8 @@
 {
   "documents": [
-    { "uuid": 1, "name": "Post 1" },
-    { "uuid": 2, "name": "Post 2" },
-    { "uuid": 3, "name": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "uuid": "6c2fd0a7-ac03-4aad-bb03-55e626dffd7b", "name": "RE  STL  DMS to Alfresco", "stl_id": "BO1557914320100"},
+    { "uuid": "494cc102-44ec-4c26-bbff-d9f9c1dc992c", "name": "EMail_-_FW__STL__DMS_t", "stl_id": "BO1557914299853"},
+    { "uuid": "c60fe7da-627c-4f80-b982-2479f895afc8", "name": "How to enter expenses", "stl_id": "BO1557914301689"}
   ],
   "outcome": {
     "type": "INFO",
