@@ -1,0 +1,99 @@
+{
+    "outcome": {
+        "type": "INFO",
+        "message": "Processing completed succesfully"
+    },
+    "numberOfDocs": 10,
+    "documents": [
+        {
+            "uuid": "6c2fd0a7-ac03-4aad-bb03-55e626dffd7b",
+            "name": "RE  STL  DMS to Alfresco",
+            "stl_id": "BO1557914320100",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:40.278+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "494cc102-44ec-4c26-bbff-d9f9c1dc992c",
+            "name": "EMail_-_FW__STL__DMS_to_Alfresco_-_020100069612",
+            "stl_id": "BO1557914299853",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:21.005+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "c60fe7da-627c-4f80-b982-2479f895afc8",
+            "name": "How to enter expenses",
+            "stl_id": "BO1557914301689",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:22.529+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "a0349ed7-abbf-4c05-a1d3-fbeb20618475",
+            "name": "docbases_doc_space_01-01-2012",
+            "stl_id": "BO1557914298997",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:19.101+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "c32e47cd-310f-4aa3-b577-f13032ca15ee",
+            "name": "BO_R4_26",
+            "stl_id": "BO1557914293938",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:15.515+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "5ec7fbcb-84d3-4d38-b036-a8339692fba8",
+            "name": "BWA Common Errors",
+            "stl_id": "BO1557914296371",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:17.992+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "6ad97e38-a42b-4fdf-9d7e-4e350b398091",
+            "name": "aws_alfresco_physical_technology_model_data_v2",
+            "stl_id": "BO1557914286218",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:06.367+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "cd7e7991-a1e2-4cad-ba25-740d9a0c3169",
+            "name": "indexTest",
+            "stl_id": "BO1557914303707",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:23.804+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "4f154ea1-ecea-4e24-9221-0eea593b0ca7",
+            "name": "indexTest2",
+            "stl_id": "BO1557914304334",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:24.419+0000",
+            "versionLabel": "1.0"
+        },
+        {
+            "uuid": "4ce6ea0f-f318-4a26-8801-928228bd5f14",
+            "name": "Installatiedossier Alfresco v1.2",
+            "stl_id": "BO1557914304829",
+            "stl_date": null,
+            "parent_id": "efa26599-93bf-4ca3-8952-39806a1627fa",
+            "creationDate": "2019-05-15T09:58:25.669+0000",
+            "versionLabel": "1.0"
+        }
+    ]
+}
